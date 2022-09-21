@@ -14,3 +14,9 @@ Using machine learning teach AI and automation to earn money, free human mind fr
 - NLU algorithm study pattern in the paper, generate factors and formulas
 - Test on the latest gathered data
 - Come up with solutions on making money
+
+## TODO
+- Add crawler script
+- Add machine learning algorithm
+- Add knowledge graphy script
+- Create UI for interactions
