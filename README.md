@@ -2,7 +2,7 @@
 Data pattern detective project knowledge base
 
 ## Goal
-Using machine learning teach AI and automation to earn money, free human mind from insufficient money.
+Using machine learning teach AI and using automation to earn money, free human mind from insufficient fund.
 
 ## Methodology
 - Web scrapping
