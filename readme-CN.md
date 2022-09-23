@@ -7,6 +7,7 @@
 - 网络搜索技术的进步，开源共识的普及，更多分享者的加入使得数据获取的方式也变得越发简单，但正因如此从数据中获得价值和产生经济收益则变得愈发困难。
 
 ![image](https://user-images.githubusercontent.com/32548283/191934725-5afad120-78ed-4aa7-837b-1e362671226d.png)
+
 (图源：Data never sleeps 10.0)
 
 ## 项目初衷
@@ -31,5 +32,6 @@
 
 ## 交流社群
 - 长按扫描二维码（备注DPDP）
+
 ![image](https://user-images.githubusercontent.com/32548283/191935121-8cbad9b5-da1a-4894-83b8-ef67589882d1.png)
 
