@@ -1,6 +1,8 @@
 
 # Data Pattern Detective Project (DPDP) --数模密探计划
 
+[English](https://github.com/neowalter/DPDP-KB/blob/main/README.md)
+
 ## 项目背景
 - 数据通货膨胀后数据分析师的深度内卷。
 - 随着网络用户的增加以及新应用新数据类型的产生，用户数据量的增长在不断加快。
