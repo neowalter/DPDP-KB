@@ -1,6 +1,5 @@
 
-# Data Pattern Detective Project (DPDP) 
-# 数模密探计划
+# Data Pattern Detective Project (DPDP) --数模密探计划
 
 ## 项目背景
 - 数据通货膨胀后数据分析师的深度内卷。
