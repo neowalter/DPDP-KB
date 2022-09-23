@@ -1,4 +1,5 @@
 # DPDP-KB
+[中文](https://github.com/neowalter/DPDP-KB/blob/main/readme-CN.md)
 Data pattern detective project knowledge base
 
 ## Goal
